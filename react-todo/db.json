@@ -13,12 +13,6 @@
       "reminder": true
     },
     {
-      "text": "asdfasdf",
-      "day": "monday",
-      "reminder": false,
-      "id": 3
-    },
-    {
       "text": "zhuzhu",
       "day": "Monday",
       "reminder": true,
